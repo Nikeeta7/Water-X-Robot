@@ -66,12 +66,11 @@ WaterX is an autonomous robotic platform designed for waterbody maintenance and 
 ## Screenshots 
 
 ![image](https://github.com/user-attachments/assets/0f591726-f2b5-4a06-ae5c-11700bb2baaa)
-![Screenshot 2024-09-10 004258](https://github.com/user-attachments/assets/39eab0b9-c627-4324-8d74-e0926bea0a2d)
 ![Screenshot 2024-09-10 001317](https://github.com/user-attachments/assets/bf39ad20-ed51-492c-909c-df671bc4441f)
 ![WhatsApp Image 2025-03-13 at 16 35 52_c4ea266c](https://github.com/user-attachments/assets/d75bc6c4-4342-45fc-b1f9-00924059b59a)
 ![WhatsApp Image 2025-03-13 at 16 35 55_03d55fa9](https://github.com/user-attachments/assets/06168a39-89d7-4307-994f-37669f6415a4)
 
-
+![Screenshot 2024-09-10 004258](https://github.com/user-attachments/assets/39eab0b9-c627-4324-8d74-e0926bea0a2d)
 ### 📍 GPS Serial Output:
 ```plaintext
 --- GPS Data ---
