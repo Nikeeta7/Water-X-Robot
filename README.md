@@ -2,6 +2,9 @@
 
 A smart Arduino-powered catamaran robot designed to autonomously clean water surfaces using a combination of brushless motors, servos, sensors, and real-time GPS tracking. This robot is a part of an ongoing hardware-software integration project and the code will be frequently updated.
 
+## LINK
+https://nikeeta7.github.io/Water-X-Robot/
+
 ## 🚀 Project Overview
 
 WaterX is an autonomous robotic platform designed for waterbody maintenance and pollution control. It includes obstacle detection, variable strainer control, servo-based sweeping, camera activation, and GPS-based tracking, all controlled via an Arduino board. The robot uses sonar for proximity sensing, and servos to adapt its trash collection mechanism dynamically.
