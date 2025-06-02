@@ -62,7 +62,7 @@ WaterX is an autonomous robotic platform designed for waterbody maintenance and 
 - Suhani Singh
 - Pooja Sharma
 - Sompriya Narayana Tiwary
-  *HMR Institute of Technology & Management*
+- *HMR Institute of Technology & Management*
 
 ---
 
